@@ -1,0 +1,2 @@
+class MicontroladorController < ApplicationController
+end
